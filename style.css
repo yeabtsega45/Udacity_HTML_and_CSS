@@ -1,0 +1,13 @@
+body {
+  font-family: Inter, serif;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+p {
+  font-style: italic;
+}
